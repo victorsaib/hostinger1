@@ -1,0 +1,176 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Servidores VPS & Hospedagem | V3X9T</title>
+  <meta name="description" content="Infraestrutura sólida, velocidade superior e suporte ágil em VPS e hospedagem. Planos acessíveis com garantia.">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+
+    header {
+      background: linear-gradient(135deg, #6A1B9A, #8E24AA);
+      color: white;
+      text-align: center;
+      padding: 40px 20px;
+    }
+
+    header h1 {
+      margin: 0 0 10px;
+      font-size: 2.5rem;
+    }
+
+    header p {
+      font-size: 1.2rem;
+    }
+
+    .top-buttons {
+      margin-bottom: 20px;
+    }
+
+    .top-buttons a {
+      display: inline-block;
+      background: #28a745;
+      color: #fff;
+      padding: 10px 20px;
+      margin: 6px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: background 0.3s;
+    }
+
+    .top-buttons a:hover {
+      background: #1e7e34;
+    }
+
+    section {
+      max-width: 960px;
+      margin: 30px auto;
+      background: white;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+
+    h2 {
+      color: #6A1B9A;
+      margin-top: 0;
+    }
+
+    a.btn {
+      display: inline-block;
+      background: #6A1B9A;
+      color: #fff;
+      padding: 12px 25px;
+      border-radius: 4px;
+      text-decoration: none;
+      margin-top: 15px;
+      font-weight: bold;
+    }
+
+    a.btn:hover {
+      background: #4a148c;
+    }
+
+    ul, ol {
+      padding-left: 20px;
+    }
+
+    .noticia {
+      background: #e3f2fd;
+      padding: 10px 15px;
+      margin-bottom: 10px;
+      border-left: 5px solid #1976d2;
+      border-radius: 4px;
+    }
+
+    .noticia a {
+      color: #0d47a1;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .noticia a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #f1f1f1;
+      margin-top: 40px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="top-buttons">
+      <a href="https://victorxx.github.io/VPSVENDA/contatoroberto.html" target="_blank">Seguro e Consórcios</a>
+      <a href="https://geocredibnkvitoria.com/" target="_blank">Crédito Pessoal</a>
+    </div>
+    <h1>Hospedagem VPS de Alto Nível V3X9T</h1>
+    <p>Infraestrutura sólida, velocidade superior e suporte ágil</p>
+  </header>
+
+  <section>
+    <h2>Quer iniciar agora mesmo?</h2>
+    <p>Clique no botão abaixo e fale diretamente com nossa equipe:</p>
+    <a href="https://hostinger.com.br/?REFERRALCODE=1VICTOR444vps123" class="btn">Entre em Contato</a>
+  </section>
+
+  <section>
+    <h2>Vantagens dos nossos planos VPS</h2>
+    <ul>
+      <li>99,9% de disponibilidade</li>
+      <li>Acesso root com controle total</li>
+      <li>Atendimento 24/7 com especialistas</li>
+      <li>Painéis intuitivos como cPanel e Plesk</li>
+      <li>Instalação rápida de apps e CMS</li>
+    </ul>
+    <a href="https://victorsaibxxw.github.io/linkhospedagem01/" class="btn">Conheça os Planos</a>
+  </section>
+
+  <section>
+    <h2>Planos Disponíveis</h2>
+    <ul>
+      <li><strong>WordPress:</strong> a partir de R$ 14,99/mês</li>
+      <li><strong>VPS Dedicado:</strong> a partir de R$ 49,99/mês</li>
+      <li><strong>Windows & Linux:</strong> com suporte a ASP.NET, PHP, Python e mais</li>
+    </ul>
+    <a href="https://hostinger.com.br/?REFERRALCODE=1VICTOR444vps123" class="btn">Contratar Agora</a>
+  </section>
+
+  <section>
+    <h2>Últimas Notícias</h2>
+    <div class="noticia">
+      <a href="#">Novo painel VPS com mais funcionalidades</a>
+    </div>
+    <div class="noticia">
+      <a href="#">Desconto especial em planos WordPress</a>
+    </div>
+    <div class="noticia">
+      <a href="#">Como melhorar a segurança do seu VPS</a>
+    </div>
+  </section>
+
+  <section>
+    <h2>Suporte e Atendimento</h2>
+    <p>Nosso time técnico está pronto para te atender via WhatsApp ou painel de suporte:</p>
+    <a href="https://central.dokehost.com.br/aff.php?aff=90vps123" class="btn">Fale com a Gente</a>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 - Todos os direitos reservados | V3X9T Servidores Premium</p>
+  </footer>
+
+</body>
+</html>
